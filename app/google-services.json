@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "110109107803",
+    "firebase_url": "https://e-shop-f99d5-default-rtdb.firebaseio.com",
+    "project_id": "e-shop-f99d5",
+    "storage_bucket": "e-shop-f99d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110109107803:android:ab5c479c83c83ff13f417e",
+        "android_client_info": {
+          "package_name": "codercamp.com.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgB7M_dXgXHexvnmnCkIQxXIzgdoPErz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110109107803:android:c46390fc8e5236453f417e",
+        "android_client_info": {
+          "package_name": "codercamp.com.plantstor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgB7M_dXgXHexvnmnCkIQxXIzgdoPErz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110109107803:android:4b6e12138f31764d3f417e",
+        "android_client_info": {
+          "package_name": "codercamp.com.plantstoradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgB7M_dXgXHexvnmnCkIQxXIzgdoPErz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110109107803:android:2d273ef53e371b353f417e",
+        "android_client_info": {
+          "package_name": "com.codercamp.homedesigns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgB7M_dXgXHexvnmnCkIQxXIzgdoPErz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110109107803-cbt88tm8svt1au1epps8o32dc7iqd0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
